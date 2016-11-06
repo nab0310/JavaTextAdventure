@@ -1,0 +1,11 @@
+Weapon | Physical Attack | Magic Attack | Attack Speed
+Staff 2.0 10.0 .4
+Sword 10.0 0 .3
+Dagger 7.0 0 .3
+Axe 13.0 0 .1
+Hammer 20.0 0 .05
+Flail 12.0 0 .6
+Spear 5.0 0 .8
+Club 2 0 .6
+FireBreath 0 15 .2
+Ink 0 5 .99
