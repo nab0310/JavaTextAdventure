@@ -42,7 +42,8 @@ public class Person {
 		double weaponPattack = 0;
 		double weaponMattack=0;
 		double attackSpeed=0;
-		File fr = new File("C:\\Users\\nab0310\\Documents\\Java\\Relearning_Java\\src\\javaGame\\WeaponData.txt");
+		String filePath = new File("").getAbsolutePath();
+		File fr = new File(filePath+"\\src\\javaGame\\WeaponData.txt");
 		Scanner scan = new Scanner(fr);
 		while(scan.hasNextLine()){
 			String weaponOnFile =scan.next();
